@@ -39,8 +39,6 @@ Some facts about me:
 
 <br />
 
-### Stats
-<a href="https://github.com/SeaOfDreams/github-readme-stats"><img alt="Filippo Livorno's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeaOfDreams&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
 [website]: https://filippolivorno.com
