@@ -1,15 +1,15 @@
-### Hi there, I'm Filippo 👋 
+## Hi there, I'm Filippo 👋 
 
-## I'm a self-taught web developer, father, CRO specialist and professional Mountain Guide. 
+### I'm a self-taught web developer, father, CRO specialist and professional Mountain Guide. 
 
 Some facts about me:
 
 - 👯 I co-founded 2 startups (fintech and lead gen marketplace)
 - 🌱 I like to build digital products from the ground-up 
 - 📈 I've digged deep into Conversion Rate Optimization (got certified by CXL), because I understood that just building a cool website or app is not enough if you're not otpimizing them to sell more. 
-- 🛠️ I'm actually building [Optipholio][website2], to help minimize the impact of hidden fees on the peformance
+- 🛠️ I'm actually building [Optipholio][website2], to help minimize the impact of hidden fees on portoflios' peformance
 - ⛰️ Fun fact: I've climbed Mont Blanc 72 times, guiding people from all over the World to the top 🌎
-- 📷Check out some pics of my guiding trips [here][photo]
+- 📷 Check out some pics of my guiding trips [here][photo]
 
 ### Connect with me:
 [<img align="left" alt="filippolivorno.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -38,14 +38,6 @@ Some facts about me:
 <br />
 <br />
 
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="SeaOfDreams's GitHub Stats" src="https://github-readme-stats.seaofdreams.vercel.app/api?username=SeaOfDreams&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://filippolivorno.com
 [website2]: https://www.optipholio.com/
