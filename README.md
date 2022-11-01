@@ -4,11 +4,10 @@
 
 Some facts about me:
 
-- 👯 I co-founded 2 startups (fintech and lead gen marketplace)
-- 🌱 I like to build digital products from the ground-up 
-- 📈 I've digged deep into Conversion Rate Optimization (got certified by CXL), because I understood that just building a cool website or app is not enough if you're not otpimizing them to sell more
-- 🛠️ I'm actually building [Optipholio][website2], to help minimize the impact of hidden fees on portoflios' peformance
-- ⛰️ Fun fact: I've climbed Mont Blanc 72 times, guiding people from all over the World to the top 🌎
+- 👯 Co-founded 2 startups, one sold (acquired by one of the leading italian martech companies, Advice Group).
+- 🌱 I like to build digital products from the ground-up.
+- 📈 I understood that just building a cool website or app is not enough if you don't have an efficient distribution strategy in place.
+- ⛰️ Fun fact: I've climbed Mont Blanc 67 times, guiding people from all over the World to the top 🌎
 - 📷 Check out some pics of my guiding trips [here][photo]
 
 ### Connect with me:
