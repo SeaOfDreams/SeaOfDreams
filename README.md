@@ -1,6 +1,6 @@
 ## Hi there, I'm Filippo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
-### I'm a self-taught web developer, entrepreneur and professional IFMGA Mountain Guide. 
+### I'm a self-taught web developer, entrepreneur and professional Mountain Guide. 
 
 Some facts about me:
 
