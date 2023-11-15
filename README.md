@@ -6,7 +6,7 @@ Some facts about me:
 
 - 👯 2X founder, 1 exit.
 - 🌱 I like to build digital products from the ground-up.
-- ⛰️ Fun fact: I've climbed Mont Blanc 68 times, guiding people from all over the World to the top 🌎
+- ⛰️ UIAGM Mountain Guide. Fun fact: I've climbed Mont Blanc 68 times, guiding people from all over the World to the top 🌎
 - 📷 Check out some pics of my guiding trips [here][photo]
 
 ### Connect with me:
